@@ -13,6 +13,8 @@
 <p align="center"> e casos confirmados de covid-19 de três paises(Brasil, Australia, Canadá) assim como foi solicitado, o site então permite</p>
 <p align="center"> que ususario escolha um estado de uum dos paises assim que for escolhido ele retorna o nome do Estado, os Casos Confirmados e as Mortes.</p> 
 
+![hghg](https://user-images.githubusercontent.com/115324446/227796717-eb5daf2e-2cdd-4988-b4a2-f550d8d252b5.png)
+
 ## Tecnologia usadas.
 
 - Php
